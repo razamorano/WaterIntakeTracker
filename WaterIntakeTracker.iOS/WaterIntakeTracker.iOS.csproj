@@ -134,4 +134,7 @@
       <Name>WaterIntakeTracker</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\UsersWI.db" />
+  </ItemGroup>
 </Project>
